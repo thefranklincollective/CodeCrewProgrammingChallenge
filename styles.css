@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+a {
+  font-family: Impact, Charcoal, sans-serif;
+  color: "gold"
+  font size: 36px;
+}
+
+h1 {
+  font-family: Impact, Charcoal, sans-serif;
+  color: "white"
+  font size: 36px;
+}
+
+p {
+  font-family: Impact, Charcoal, sans-serif;
+  color: "red"
+  font size: 36px;
+}
