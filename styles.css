@@ -4,19 +4,19 @@ body {
 }
 
 a {
-  font-family: Impact, Charcoal, sans-serif;
+  font-family: Impact;
   color: "gold"
   font size: 36px;
 }
 
 h1 {
-  font-family: Impact, Charcoal, sans-serif;
+  font-family: Charcoal;
   color: "white"
   font size: 36px;
 }
 
 p {
-  font-family: Impact, Charcoal, sans-serif;
+  font-family: sans-serif;
   color: "red"
   font size: 36px;
 }
