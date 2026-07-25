@@ -1,4 +1,14 @@
 a {
-  color: red;
+  color: crimson;
   font-family: Impact, sans-serif;
+}
+
+p {
+  color: black;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: gold;
+  font-family: Verdana, sans-serif;
 }
